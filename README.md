@@ -1,2 +1,2 @@
 # Gandon-Go
-Utility to unpack .gan archives
+Utility to unpack decrypted .gan archives
